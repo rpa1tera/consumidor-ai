@@ -18,7 +18,7 @@
 
 ## 🚀 Visão Geral
 
-O **Consumidor.Ai** é um sistema de Perguntas e Respostas (Q&A) baseado na arquitetura **RAG (Retrieval-Augmented Generation)**. Ele ingere documentos jurídicos (como o Código de Defesa do Consumidor, jurisprudências e processos), processa esses textos e utiliza modelos de linguagem avançados (LLMs) para gerar respostas precisas e fundamentadas.
+O **Consumidor.Ai** é um chatbot baseado na arquitetura **RAG (Retrieval-Augmented Generation)**. Ele ingere documentos jurídicos (como o Código de Defesa do Consumidor, jurisprudências e processos), processa esses textos e utiliza modelos de linguagem avançados (LLMs) para gerar respostas precisas e fundamentadas.
 
 O foco principal deste projeto é lidar de forma eficiente com PDFs extensos, superando limitações de memória ao realizar o *chunking* inteligente de documentos antes da extração de dados.
 
