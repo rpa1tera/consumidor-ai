@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "tipo": "Fatual",
+    "pergunta": "Qual o prazo legal para arrependimento em compras feitas pela internet?",
+    "resposta_esperada": "7 dias a contar de sua assinatura ou do ato de recebimento do produto ou serviço.",
+    "referencia_esperada": "Artigo 49 do Código de Defesa do Consumidor."
+  },
+  {
+    "id": 2,
+    "tipo": "Fatual",
+    "pergunta": "O que é considerado produto durável de acordo com o Código de Defesa do Consumidor?",
+    "resposta_esperada": "São produtos que não se extinguem com o uso, como carros, eletrodomésticos e móveis.",
+    "referencia_esperada": "Doutrina e CDC (implícito no prazo de reclamação de 90 dias do Art. 26)."
+  },
+  {
+    "id": 3,
+    "tipo": "Fatual",
+    "pergunta": "O fornecedor pode se recusar a cumprir a oferta anunciada?",
+    "resposta_esperada": "Não, toda oferta, apresentação ou publicidade obriga o fornecedor a cumpri-\u00e1-la.",
+    "referencia_esperada": "Art. 30 e 35 do CDC."
+  },
+  {
+    "id": 4,
+    "tipo": "Fatual",
+    "pergunta": "Qual é a definição legal de Consumidor?",
+    "resposta_esperada": "Toda pessoa f\u00edsica ou jur\u00eddica que adquire ou utiliza produto ou servi\u00e7o como destinat\u00e1rio final.",
+    "referencia_esperada": "Artigo 2\u00ba do CDC."
+  },
+  {
+    "id": 5,
+    "tipo": "Fatual",
+    "pergunta": "Qual \u00e9 a defini\u00e7\u00e3o de pr\u00e1tica abusiva de 'Venda Casada'?",
+    "resposta_esperada": "\u00c9 condicionar o fornecimento de produto ou de servi\u00e7o ao fornecimento de outro produto ou servi\u00e7o.",
+    "referencia_esperada": "Artigo 39, I, do CDC."
+  },
+  {
+    "id": 6,
+    "tipo": "Fatual",
+    "pergunta": "Em caso de v\u00edcio oculto de um smartphone, quando come\u00e7a a contar o prazo para reclama\u00e7\u00e3o?",
+    "resposta_esperada": "No momento em que ficar evidenciado o defeito (do in\u00edcio do conhecimento do v\u00edcio oculto).",
+    "referencia_esperada": "Art. 26, \u00a7 3\u00ba do CDC."
+  },
+  {
+    "id": 7,
+    "tipo": "Fatual",
+    "pergunta": "A invers\u00e3o do \u00f4nus da prova \u00e9 garantida ao consumidor em que condi\u00e7\u00f5es?",
+    "resposta_esperada": "Quando for hipossuficiente ou quando for veross\u00edmil a alega\u00e7\u00e3o.",
+    "referencia_esperada": "Artigo 6\u00ba, VIII, CDC."
+  },
+  {
+    "id": 8,
+    "tipo": "Combinada",
+    "pergunta": "Comprei uma geladeira que veio com defeito e acionei a assist\u00eancia assim que recebi. Ap\u00f3s 30 dias na f\u00e1brica ela n\u00e3o foi consertada. Quais s\u00e3o os meus direitos agora e porque esse direito entra nas regras do prazo de garantia legal?",
+    "resposta_esperada": "O prazo m\u00e1ximo de conserto \u00e9 30 dias. Passado isso, o consumidor pode exigir: substitui\u00e7\u00e3o do produto, restitui\u00e7\u00e3o da quantia paga ou abatimento proporcional, com base nas regras de garantia legal de 90 dias que amparam produtos dur\u00e1veis.",
+    "referencia_esperada": "Artigos 18, \u00a7 1\u00ba e Art. 26, II do CDC."
+  },
+  {
+    "id": 9,
+    "tipo": "Combinada",
+    "pergunta": "O que acontece se uma empresa insere meu nome indevidamente no SPC/Serasa? O prazo de inscri\u00e7\u00e3o n\u00e3o pode passar de quantos anos?",
+    "resposta_esperada": "A inclus\u00e3o indevida \u00e9 cab\u00edvel de compensa\u00e7\u00e3o por danos morais e materiais e exclus\u00e3o imediata. Al\u00e9m disso, o prazo m\u00e1ximo legal permitido de uma negativa\u00e7\u00e3o em cadastros leg\u00edtimos \u00e9 5 anos.",
+    "referencia_esperada": "Art. 43, \u00a7 1\u00ba e \u00a7 5\u00ba CDC / Jurisprud\u00eancia."
+  },
+  {
+    "id": 10,
+    "tipo": "Combinada",
+    "pergunta": "Qual a diferen\u00e7a entre a responsabilidade por v\u00edcio do produto e a responsabilidade pelo fato do produto?",
+    "resposta_esperada": "O 'V\u00edcio' refere-se \u00e0 perda de qualidade e quantia (defeitos operacionais). O 'Fato' \u00e9 um defeito grav\u00edssimo que causa risco ou dano material, moral ou est\u00e9tico \u00e0 sa\u00fade e seguran\u00e7a do consumidor (acidente de consumo).",
+    "referencia_esperada": "Artigos 12 e 18 do CDC."
+  },
+  {
+    "id": 11,
+    "tipo": "Combinada",
+    "pergunta": "Se um banco liga exaustivamente cobrando uma d\u00edvida que o consumidor de fato tem, informando a vizinhos da d\u00edvida, isso fere qual regra e d\u00e1 que direito ao consumidor que se sentir envergonhado?",
+    "resposta_esperada": "Fere a regra da cobran\u00e7a abusiva/vexat\u00f3ria, constituindo infra\u00e7\u00e3o penal. O consumidor n\u00e3o pode ser exposto a rid\u00edculo ao ser cobrado, podendo gerar danos morais.",
+    "referencia_esperada": "Artigos 42 e 71 do CDC."
+  },
+  {
+    "id": 12,
+    "tipo": " Combinada",
+    "pergunta": "Quem perdeu o ticket do estacionamento dentro de um shopping center precisa pagar as famosas 'taxas de perdas de ticket', e o que pode acontecer legalmente se ele tiver seu carro furtado no mesmo shopping?",
+    "resposta_esperada": "A cobran\u00e7a exagerada por ticket perdido \u00e9 pr\u00e1tica abusiva (o estacionamento tem como verificar por c\u00e2meras o per\u00edodo de estada). E sobre o furto, o shopping responde pois h\u00e1 guarda e dep\u00f3sito gerador de lucro ou interesse comercial com responsabilidade.",
+    "referencia_esperada": "Art. 39 \u00e3e Art 14 CDC, s\u00famula 130 STJ."
+  },
+  {
+    "id": 13,
+    "tipo": "Fatual",
+    "pergunta": "A cl\u00e1usula contratual que estabelece a invers\u00e3o do \u00f4nus da prova em preju\u00edzo do consumidor \u00e9 v\u00e1lida?",
+    "resposta_esperada": "N\u00e3o, s\u00e3o nulas de pleno direito.",
+    "referencia_esperada": "Artigo 51, VI, do CDC."
+  },
+  {
+    "id": 14,
+    "tipo": "Combinada",
+    "pergunta": "Comprei algo pela \u00e1rea de promo\u00e7\u00f5es em esp\u00e9cie e o lojista recusou aceitar as moedas como troco do pre\u00e7o exato. Qual a regra geral no CDC e os princ\u00edpios?",
+    "resposta_esperada": "Recusar dinheiro como moeda de curso for\u00e7ado dentro do limite nacional e rebaixar a boa-f\u00e9 nas promo\u00e7\u00f5es constituem recusa de recebimento e desvantagem do cliente. A recusa injustificada \u00e9 pr\u00e1tica abusiva.",
+    "referencia_esperada": "Art 39, IX."
+  },
+  {
+    "id": 15,
+    "tipo": "Fatual",
+    "pergunta": "Onde o PROCON costuma atuar administrativamente?",
+    "resposta_esperada": "Os Procons t\u00eam o papel de registrar, organizar a fiscaliza\u00e7\u00e3o, promover concilia\u00e7\u00f5es e at\u00e9 aplicar multas caso as viola\u00e7\u00f5es \u00e0 lei de defesa permane\u00e7am.",
+    "referencia_esperada": "Cartilhas do Procon."
+  },
+  {
+    "id": 16,
+    "tipo": "Fora do Corpus",
+    "pergunta": "Quais s\u00e3o os requisitos t\u00e9cnicos da constru\u00e7\u00e3o de um telhado ecologicamente amig\u00e1vel feito por engenheiros na It\u00e1lia?",
+    "resposta_esperada": "N\u00e3o encontrei essa informa\u00e7\u00e3o na base de dados do Consumidor.Ai.",
+    "referencia_esperada": "RECUSA (Groundedness)."
+  },
+  {
+    "id": 17,
+    "tipo": "Fora do Corpus",
+    "pergunta": "Eu quero processar meu s\u00edndico que me multou. Sou inquilino e h\u00e1 quanto tempo n\u00e3o h\u00e1 isen\u00e7\u00e3o de imposto de renda no condom\u00ednio?",
+    "resposta_esperada": "N\u00e3o encontrei essa informa\u00e7\u00e3o na base de dados do Consumidor.Ai. Por favor, consulte um especialista ou \u00f3rg\u00e3o de prote\u00e7\u00e3o oficial.",
+    "referencia_esperada": "RECUSA - Esse tema \u00e9 Direito Condominial e Tribut\u00e1rio, n\u00e3o \u00e9 coberto pelo CDC."
+  },
+  {
+    "id": 18,
+    "tipo": "Fora do Corpus",
+    "pergunta": "Como montar um aqu\u00e1rio em seguran\u00e7a com \u00e1gua salgada e com dicas qu\u00edmicas na temperatura amena do norte?",
+    "resposta_esperada": "N\u00e3o encontrei essa informa\u00e7\u00e3o na base de dados do Consumidor.Ai. Por favor, consulte um especialista ou \u00f3rg\u00e3o de prote\u00e7\u00e3o oficial.",
+    "referencia_esperada": "RECUSA."
+  },
+  {
+    "id": 19,
+    "tipo": "Fora do Corpus",
+    "pergunta": "A constitui\u00e7\u00e3o francesa assegurava os direitos b\u00e1sicos de consumo ap\u00f3s 1789?",
+    "resposta_esperada": "N\u00e3o encontrei essa informa\u00e7\u00e3o na base de dados do Consumidor.Ai.",
+    "referencia_esperada": "RECUSA."
+  },
+  {
+    "id": 20,
+    "tipo": "Fora do Corpus",
+    "pergunta": "Minha perna d\u00f3i quando acordo, devo tomar paracetamol e correr de manha?",
+    "resposta_esperada": "N\u00e3o encontrei essa informa\u00e7\u00e3o na base de dados do Consumidor.Ai. Por favor, consulte um especialista ou \u00f3rg\u00e3o de prote\u00e7\u00e3o oficial.",
+    "referencia_esperada": "RECUSA M\u00c9DICA."
+  }
+]
