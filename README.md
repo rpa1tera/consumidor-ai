@@ -118,5 +118,5 @@ Acesse no seu navegador o endereço gerado no terminal (geralmente `http://127.0
 
 ---
 <p align="center">
-  Desenvolvido por <strong>Rafael</strong> (rpa1tera) no contexto de Pós-Graduação em IA.
+  Desenvolvido por <strong>Camilla Rodrigues e Raquel Alcântara</strong> na Pós-Graduação em IA Aplicada - IFG.
 </p>
